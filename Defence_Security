@@ -1,0 +1,10 @@
+When a SOC team detects a breach in progress. Their first priority isn't to eliminate the threat immediately.
+
+Security Operation Centres use a variety of tools (such as a monitoring dashboard) to gain an overall picture of what is happening within the organisation's digital landscape. 
+These dashboards capture activity across devices, the network, and more.
+
+Now that we have confirmed that an attack is indeed happening. Using the information we discovered in the previous task, we can immediately stop the attacker in their tracks.
+For the defensive security team, stopping an attack - or incident - is a high priority. The sooner we can stop the attacker, the less harm that will come to the organisation.
+Stopping an attacker can be harder than it sounds. Modern attackers are smart, and often change their behaviour if they know they have been spotted. What stopped them once may not stop them again.
+
+Create an inident report
